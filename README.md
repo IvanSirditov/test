@@ -1,6 +1,10 @@
 # test
-test repo for students
-1. sdfsd
+Лайфхаки
+1. git clone
+2. cd test
+3. git add .
+4. git commit -m "XXX"
+5. git push
 
 ## header 2
 
