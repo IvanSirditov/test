@@ -1,6 +1,21 @@
 # test
 test repo for students
+asdasdasd
+as
+das
+d
+as
+d
+s
+da
+s
+das
+dasdasdad
 1. sdfsd
+<<<<<<< HEAD
+=======
+
+>>>>>>> 159ca95e985b73de0690016035de9fb27b1d5e73
 Nikiforov
 ## header 2
 
